@@ -1,4 +1,5 @@
-# Protocolo MQTT (Message Queuing Telemetry Transport) ☑️
+# Protocolo MQTT ☑️
+## (Message Queuing Telemetry Transport) 
 Projeto realizado em ambiente escolar, na qual usamos um sensor DHT11 que pega a temperatura e a umidade.
 
 Usamos o Adafruit IO que recebe as informações e exibe o resultado:
